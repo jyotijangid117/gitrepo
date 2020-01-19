@@ -2,7 +2,7 @@ package gitrepo.jyoti;
 
 public class Test {
 
-	int a ;
+	int a;
 	String b;
-	
+
 }
